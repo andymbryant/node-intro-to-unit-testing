@@ -29,4 +29,4 @@ describe('fizzBuzz', function() {
       }).should.throw(Error);
     });
   });
-})
+}) 
